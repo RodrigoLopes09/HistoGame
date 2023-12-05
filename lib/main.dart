@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
+ //versão final já apresentada
 void main() {
   runApp(MaterialApp(
     home: StartScreen(),

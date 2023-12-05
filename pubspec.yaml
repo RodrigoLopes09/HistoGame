@@ -1,0 +1,15 @@
+name: seu_app
+description: Um aplicativo de quiz
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^5.1.0
+
+flutter:
+  assets:
+    - assets/
+    - assets/sounds/
+
+environment:
+  sdk: '>=2.15.0 <3.0.0' # Substitua pela versão desejada do SDK
